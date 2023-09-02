@@ -1,0 +1,9 @@
+{
+  "extends": [
+    "@tegor"
+  ],
+  "ignorePatterns": [
+    "node_modules/",
+    "/*/*.md"
+  ]
+}
